@@ -7,7 +7,7 @@
 			"currency": "USD",
 			"value": 13.84
 		},
-		"image": "../../../image/catalog/id1.png"
+		"image": "book_store/catalog/id1.png"
 	},
 	{
 		"id": 2,
@@ -17,7 +17,7 @@
 			"currency": "USD",
 			"value": 86.11
 		},
-		"image": "../../../image/catalog/id2.png"
+		"image": "book_store/catalog/id2.png"
 	},
 	{
 		"id": 3,
@@ -27,7 +27,7 @@
 			"currency": "USD",
 			"value": 46.76
 		},
-		"image": "../../../image/catalog/id2.png"
+		"image": "book_store/catalog/id2.png"
 	},
 	{
 		"id": 4,
@@ -37,6 +37,6 @@
 			"currency": "USD",
 			"value": 26.51
 		},
-		"image": "../../../image/catalog/id1.png"
+		"image": "book_store/catalog/id1.png"
 	}
 ]
