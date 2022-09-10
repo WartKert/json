@@ -1,0 +1,27 @@
+[
+	{
+		"id": 1,
+		"name": "James Williams",
+		"text": "Great Books Collection",
+		"evaluation": 4.5,
+    "comment": "I was searching this book for many years and I eas happy that I could find it here."
+		"image": "book_store/comment/James_Williams.png"
+	},
+  {
+		"id": 2,
+		"name": "Chris Adams",
+		"text": "Perfect Reaponse Author",
+		"evaluation": 4,
+    "comment": "I had a question about the book and the author response was great & comfort."
+		"image": "book_store/comment/Chris_Adams.png"
+	},
+  {
+		"id": 3,
+		"name": "Angeline Flora",
+		"text": "Crative Writing Skill",
+		"evaluation": 4.5,
+    "comment": "Sent an email after to books arrived to ask about the author & I received a reply."
+		"image": "book_store/comment/Angeline_Flora.png"
+	},
+	
+]
